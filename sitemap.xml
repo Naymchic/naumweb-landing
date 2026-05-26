@@ -1,8 +1,220 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
     <loc>https://yourdomain.com/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/services/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/landing-page-development/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/small-business-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/restaurant-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/startup-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-redesign-services/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/ecommerce-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/gym-fitness-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/barbershop-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/real-estate-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/car-dealership-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/car-wash-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/medical-clinic-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/dental-clinic-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/lawyer-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/construction-company-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/cleaning-service-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/plumber-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/electrician-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/hvac-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/roofing-company-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/photographer-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/videographer-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/portfolio-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/freelancer-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/crypto-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/ai-startup-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/saas-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/wordpress-alternative-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/seo-friendly-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/fast-loading-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/mobile-friendly-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/business-landing-pages/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-for-restaurants/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-for-cafes/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-for-hotels/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-for-airbnb-hosts/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-for-coaches/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-for-online-courses/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-for-youtube-creators/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-maintenance-services/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-speed-optimization/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-seo-audit/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/one-page-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/multi-page-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/custom-web-development/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/web-design-services/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/web-development-services/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/ui-ux-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-for-local-business/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/website-for-service-business/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/cheap-business-websites/</loc>
+  </url>
+
+  <url>
+    <loc>https://yourdomain.com/premium-business-websites/</loc>
   </url>
 
 </urlset>
